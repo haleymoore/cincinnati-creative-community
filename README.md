@@ -1,6 +1,6 @@
 # cincinnati creative community code of conduct
 
-<h2>Anti-harassment policy>/h2>
+<h2>Anti-harassment policy</h2>
 <h3>Shorter version</h3>
 <p>Cincinnati Creative Community is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of participants in any form.</p>
 
@@ -15,7 +15,7 @@
 
 <p>Some COMMUNITY NAME spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.</p>
 
-<ul>Harassment includes:</ul>
+<strong><ul>Harassment includes:</ul></strong>
 
 <li>Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.</li>
 <li>Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.</li>
@@ -29,13 +29,13 @@
 <li>Harassing photography or recording, including logging online activity for harassment purposes.</li>
 <li>Sustained disruption of discussion.</li>
 <li>Unwelcome sexual attention.</li>
-<li>Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
+<li>Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others.</li>
 <li>Continued one-on-one communication after requests to cease.</li>
 <li>Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse.</li>
 <li>Publication of non-harassing private communication.</li>
 </ul>
 
-<ul>Cincinnati Creative Community prioritizes marginalized people’s safety over privileged people’s comfort. RESPONSE TEAM reserves the right not to act on complaints regarding:</ul>
+<strong><ul>Cincinnati Creative Community prioritizes marginalized people’s safety over privileged people’s comfort. RESPONSE TEAM reserves the right not to act on complaints regarding:</ul></strong>
 
 <li>‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’</li>
 <li>Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”</li>
